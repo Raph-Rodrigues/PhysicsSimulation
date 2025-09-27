@@ -1,0 +1,30 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.workspace.library": [
+        "${3rd}/love2d/library"
+    ],
+    "Lua.workspace.checkThirdParty": false,
+    "editor.guides.bracketPairs": true,
+    "lua.targetVersion": "5.3",
+    "Lua.diagnostics.globals": [
+        "fonts",
+        "acceleration",
+        "lastY",
+        "lastX",
+        "totalDistance",
+        "startTime",
+        "circle",
+        "gameStateManager",
+        "screenHeight",
+        "screenWidth",
+        "mainMenu",
+        "levelMenu",
+        "pauseMenu",
+        "pauseButton",
+        "createMainMenu",
+        "createLevelMenu",
+        "createPauseMenu",
+        "drawGameInfo",
+        "resetCircle"
+    ]
+}
